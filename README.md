@@ -15,7 +15,7 @@ Format- CSV
 Records- 11251
 Columns- 15
 ## Data Structure
-()
+(https://github.com/meretimounika/Festival-Sales-Analysis/blob/main/Data%20Structure%20.png)
 ## Executive Summary
 This Festival sales analysis at the Diwali period revels us that the female customer from 26- 50 are the main contributors to the sales. With products like food, clothing, footwear and furniture are the top categories, from income groups like IT, healthcare, aviation and banking are the main players. Urban and economical purchase power regions contributing to most of the revenue. These insights can be used to tailor and stock up the inventory, and promoting offers for the required areas to increase the sales for next year Diwali period.
 ## Insights
