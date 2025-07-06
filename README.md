@@ -10,10 +10,10 @@ To understand the sales during the festival the questions to be answered are,
 4.	Which states or regions contributed the most to overall sales during Diwali?
 5.	Are there any noticeable trends in shopping based on occupation?
 ## Data Source
-Source- Kaggle 
-Format- CSV
-Records- 11251
-Columns- 15
+Source- Kaggle<br> 
+Format- CSV<br>
+Records- 11251<br>
+Columns- 15<br>
 ## Data Structure
 ![Data structure Screenshot](https://github.com/meretimounika/Festival-Sales-Analysis/blob/main/Data%20Structure%20.png)
 ## Executive Summary
@@ -36,8 +36,8 @@ https://github.com/meretimounika/Festival-Sales-Analysis/blob/main/Festival_Sale
 - In the states with low generating revenue the traditional festival significance products need promoted i.e., product categories designed for their region.
 - Focus on high income generating occupation as they are the main drives of the festival sales and stock the inventory for their needs and wants during the festival period.
 ## Tools and Technologies
-- SQL – for data column filtering 
-- Power query – for data transforming and cleaning 
-- DAX – for certain measurements 
-- Power BI – for data visualization like charts and dashboard building  
+SQL – for data column filtering<br>
+Power query – for data transforming and cleaning<br>
+DAX – for certain measurements<br> 
+Power BI – for data visualization like charts and dashboard building  
 
