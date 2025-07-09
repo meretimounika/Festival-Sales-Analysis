@@ -29,7 +29,7 @@ This Festival sales analysis at the Diwali period revels us that the female cust
 5.	High income groups like IT sector, healthcare, aviation and banking drive most of the revenue with IT making about 14.76 million. This is reflecting their disposable income and buying power. The least contributing sectors are textile, agriculture and construction.
 ## Dashboard 
 ![Main Dashboard](
-https://github.com/meretimounika/Festival-Sales-Analysis/blob/main/Festival_Sales_main_Dashboard.png)
+https://github.com/meretimounika/Festival-Sales-Analysis/blob/main/Festival_Sales_Main_Dashboard.png)
 ## Recommendations
 - More focus should be on the female customers of married and unmarried with the young adults and middle age by stocking the inventory by their favoured products.
 - Products with low sales who has potential need to be promoted with strategic offers like limited offers for festival period, combo deals and festival discounts.
